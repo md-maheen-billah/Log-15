@@ -82,6 +82,16 @@ Practice Task-6:
 ![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/c6b1c6f9-9b45-4097-a567-bb9e25101d4f)
 ![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/18b4a61d-761e-4f47-9708-fb7180888598)
 
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/dfcd4764-b0eb-4f50-9eae-7de0ee46fa76)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/fe366e1b-795b-4e3d-acff-3eaef234ef33)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/ce3feec7-3d7b-4ada-8e11-85baf62e6e2f)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/093be437-2d04-4abf-9651-a85ea899bedb)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/e3269499-3ebe-4a38-9f6b-ce35faba6753)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/2c4ce5a1-75b1-435b-bf9b-7f6fe5fbe2f6)
+
+
 
 
 
