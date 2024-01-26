@@ -10,7 +10,10 @@ Practice Task-1:
 
 Practice Task-2:
 
-![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/57a76e8d-f3e3-4ce9-aae6-2fd9710f1a5d)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/d7dc8791-1334-44e4-830a-401d092508fc)
+
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/220d6f9d-10c1-4863-b1b1-71651d37412a)
 ![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/ceb6e894-bb4e-4e79-8abb-ce897c016bcb)
 
 ![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/54d60dc0-6244-4170-8e6e-88d318e08b20)
