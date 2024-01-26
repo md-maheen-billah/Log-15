@@ -1,4 +1,4 @@
-# Log 14 (Duration: 6 Months)
+# Log 15 (Duration: 6 Months)
 Today's lesson focused on constants in JavaScript, if-else statements, and the use of ternary operators. We were assigned tasks practice tasks like BMI calculator, grade calculator etc.
 
 Practice Task-1:
@@ -64,6 +64,15 @@ Practice Task-4:
 ![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/35849b76-d94e-4dea-8c43-2c0f8658758a)
 ![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/a32511c3-b8ab-4e9c-a3e0-dac62011abb0)
 
+Practice Task-5:
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/9a4629c4-f8db-41a4-9569-37cb9eea5a08)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/3d3bc5b4-c56d-48a1-aeee-c7c7ebf1e73b)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/93f2da15-b83d-46cd-b925-0b1d3a359297)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/8f2998c8-7c8b-497e-8ae3-3115da137abc)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/662a1584-b937-4336-823b-a15221d4eb6d)
 
 
 
