@@ -45,6 +45,30 @@ Practice Task-3:
 ![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/78b7aa10-661e-402a-805e-546e280bdc70)
 ![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/87993fce-b44d-4b5f-a29b-39e70c403b77)
 
+Practice Task-4:
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/0e2cc97b-4bd4-4c83-93d7-0c558c7af565)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/57933fa3-2fe3-4dc6-917d-555489ac59ff)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/a463e92f-31c6-4b2f-a238-eaf13a99fddc)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/98cd3685-a800-4098-962a-c72826e2ef9e)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/a7d902ca-92e1-432d-8691-ebd2344b2d1a)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/e804d7dd-b3d9-4f7b-a30d-2c04300dce40)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/7a1e27bb-4208-4989-b08c-9381d2ac18a0)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/854b83bf-5339-4115-933f-422871a01da8)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/6b183b74-5319-4862-b992-455c739c4823)
+
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/35849b76-d94e-4dea-8c43-2c0f8658758a)
+![image](https://github.com/md-maheen-billah/Log-15/assets/140327805/a32511c3-b8ab-4e9c-a3e0-dac62011abb0)
+
+
+
+
+
+
 
 
 
